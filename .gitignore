@@ -1,0 +1,4 @@
+dist
+build
+__pycache__
+souq_spider.py
