@@ -26,8 +26,8 @@ Extract and update same excel file:
 
  A new excel file is created in the current working directory with the required data and the same file will get updated from the next time.
 
-Extract and update same excel file:
------------------------------------
+Extract and crate new excel file everytime:
+-------------------------------------------
 
  1. Go to the directory web_scrap.
  2. Open the terminal in the current directory.
