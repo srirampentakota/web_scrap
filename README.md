@@ -15,8 +15,8 @@ Inorder to setup the code follow below steps:
 
  5. Now the setup is ready, you can Extract the data and store it in your machine. 
 
-Extract and save data:
-----------------------
+Extract and update same excel file:
+-----------------------------------
 
  1. Go to the directory web_scrap.
  2. Open the terminal in the current directory.
@@ -24,4 +24,15 @@ Extract and save data:
 	
 	python3 scrap.py 
 
- A new excel file is created in the current working directory with the required data.
+ A new excel file is created in the current working directory with the required data and the same file will get updated from the next time.
+
+Extract and crate new excel file everytime:
+-------------------------------------------
+
+ 1. Go to the directory web_scrap.
+ 2. Open the terminal in the current directory.
+ 3. Enter the command in the below format:
+	
+	python3 scrap_new_file.py 
+
+ A new excel file is created everytime in the current working directory with the required data updated in it.
